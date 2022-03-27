@@ -23,7 +23,7 @@ unsigned long lastFaultDebounceTime = 0;  // the last time the output pin was to
 unsigned long lastTestDebounceTime = 0;  // the last time the output pin was toggled
 unsigned long debounceDelay = 50;    // the debounce time; increase if the output flickers
 
-float hydrogenThreshold = 100; // todo find a threshold value for hydrogen
+float hydrogenThreshold = 100; // todo find a threshold value for hydrogen // needs to fault at 1%
 
 void setup() {
   pinMode(faultButton, INPUT_PULLUP);
@@ -121,9 +121,15 @@ void loop() {
   }
   
 //if we detect a hydrogen leak then send the system to fault
-  // if (analogRead(hydrogenSensor)> hydrogenThreshold){
-  //   digitalWrite(faultLED, true);
-  // }
+  if (analogRead(hydrogenSensor)> hydrogenThreshold){
+    digitalWrite(faultLED, true);
+    digitalWrite(testLED, false);
+
+    digitalWrite(relay1, false);
+    digitalWrite(relay2, false);
+    digitalWrite(relay3, false);
+    digitalWrite(relay4, false);
+  }
 
 
   // save the reading. Next time through the loop, it'll be the lastButtonState:
