@@ -23,7 +23,7 @@ unsigned long lastFaultDebounceTime = 0;  // the last time the output pin was to
 unsigned long lastTestDebounceTime = 0;  // the last time the output pin was toggled
 unsigned long debounceDelay = 50;    // the debounce time; increase if the output flickers
 
-float hydrogenThreshold = 100; // todo find a threshold value for hydrogen // needs to fault at 1%
+float hydrogenThreshold = 400; // todo find a threshold value for hydrogen // needs to fault at 1%
 
 void setup() {
   pinMode(faultButton, INPUT_PULLUP);
