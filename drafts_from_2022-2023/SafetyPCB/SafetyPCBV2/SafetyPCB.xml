@@ -1,0 +1,2154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\felip\OneDrive\Documents\KiCad\SafetyPCB\SafetyPCB.kicad_sch</source>
+    <date>11/5/2022 12:25:50 PM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>untitled.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SafetyPCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>88a086b6-c63b-4298-a0d3-ebf29f2add73</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>72d5b70d-2433-4ef1-87f2-a5bed1abe9a2</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_DIOM5227X270N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">S1A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/s1a/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/S1M-D.pdf</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">S1A</field>
+        <field name="MOUSER PART NUMBER">512-S1A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_S1A" description="Diode"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/S1M-D.pdf"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S1A"/>
+      <property name="MOUSER PART NUMBER" value="512-S1A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="S1A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/s1a/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>f276b76f-1cc2-48e7-a18b-5b7e4211afe9</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_DIOM5227X270N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">S1A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/s1a/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/S1M-D.pdf</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">S1A</field>
+        <field name="MOUSER PART NUMBER">512-S1A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_S1A" description="Diode"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/S1M-D.pdf"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S1A"/>
+      <property name="MOUSER PART NUMBER" value="512-S1A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="S1A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/s1a/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>42b8d18a-c67e-4c0b-9a34-b88eecf1a43b</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_DIOM5227X270N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">S1A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/s1a/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/S1M-D.pdf</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">S1A</field>
+        <field name="MOUSER PART NUMBER">512-S1A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_S1A" description="Diode"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/S1M-D.pdf"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S1A"/>
+      <property name="MOUSER PART NUMBER" value="512-S1A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="S1A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/s1a/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>457bfbc7-2fad-40d9-9960-9b1d5a2943bd</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_DIOM5227X270N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">S1A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/s1a/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/S1M-D.pdf</field>
+        <field name="HEIGHT">2.7mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">S1A</field>
+        <field name="MOUSER PART NUMBER">512-S1A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_S1A" description="Diode"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/S1M-D.pdf"/>
+      <property name="HEIGHT" value="2.7mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="S1A"/>
+      <property name="MOUSER PART NUMBER" value="512-S1A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/S1A/?qs=RJwZ8kJo1mjAagviH5vK9g%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="S1A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/s1a/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>080b2e2f-ef8a-40d9-8b56-3e76de5b663e</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_FUSC9830X318N</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.mouser.com/datasheet/2/643/Bel Fuse_02202018_0678H-1288534.pdf</field>
+        <field name="HEIGHT">3.18mm</field>
+        <field name="MANUFACTURER_NAME">Bel</field>
+        <field name="MANUFACTURER_PART_NUMBER">0678H9100-02</field>
+        <field name="MOUSER PART NUMBER">530-0678H9100-02</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_0678H9100-02" description="Fuse"/>
+      <property name="DATASHEET LINK" value="https://www.mouser.com/datasheet/2/643/Bel Fuse_02202018_0678H-1288534.pdf"/>
+      <property name="HEIGHT" value="3.18mm"/>
+      <property name="MANUFACTURER_NAME" value="Bel"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0678H9100-02"/>
+      <property name="MOUSER PART NUMBER" value="530-0678H9100-02"/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>e0bbfd4f-adca-42a1-a092-d7d52b302d5e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf</field>
+        <field name="HEIGHT">7.38mm</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">171975-0002</field>
+        <field name="MOUSER PART NUMBER">538-171975-0002</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_171975-0002" description="Connector"/>
+      <property name="DATASHEET LINK" value="https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf"/>
+      <property name="HEIGHT" value="7.38mm"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="171975-0002"/>
+      <property name="MOUSER PART NUMBER" value="538-171975-0002"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>24889f4e-2155-4944-a67e-3a442c88a016</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf</field>
+        <field name="HEIGHT">7.38mm</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">171975-0002</field>
+        <field name="MOUSER PART NUMBER">538-171975-0002</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_171975-0002" description="Connector"/>
+      <property name="DATASHEET LINK" value="https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf"/>
+      <property name="HEIGHT" value="7.38mm"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="171975-0002"/>
+      <property name="MOUSER PART NUMBER" value="538-171975-0002"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>9eba90fe-9ba8-4f36-aa8f-a2068a41f092</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_43045-0200</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">0430450200</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/0430450200/molex</field>
+        <field name="DATASHEET LINK">http://www.molex.com/webdocs/datasheets/pdf/en-us//0430450200_PCB_HEADERS.pdf</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">0430450200</field>
+        <field name="MOUSER PART NUMBER">N/A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="1_0430450200" description="Connector"/>
+      <property name="DATASHEET LINK" value="http://www.molex.com/webdocs/datasheets/pdf/en-us//0430450200_PCB_HEADERS.pdf"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="0430450200"/>
+      <property name="MOUSER PART NUMBER" value="N/A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"/>
+      <property name="ARROW PART NUMBER" value="0430450200"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/0430450200/molex"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>655daea4-9fc9-4122-95cb-f76e4f56cfae</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf</field>
+        <field name="HEIGHT">7.38mm</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">171975-0002</field>
+        <field name="MOUSER PART NUMBER">538-171975-0002</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_171975-0002" description="Connector"/>
+      <property name="DATASHEET LINK" value="https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf"/>
+      <property name="HEIGHT" value="7.38mm"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="171975-0002"/>
+      <property name="MOUSER PART NUMBER" value="538-171975-0002"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>6a860204-5ac0-4680-aae4-a6190b6399e9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf</field>
+        <field name="HEIGHT">7.38mm</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">171975-0002</field>
+        <field name="MOUSER PART NUMBER">538-171975-0002</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="3_171975-0002" description="Connector"/>
+      <property name="DATASHEET LINK" value="https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf"/>
+      <property name="HEIGHT" value="7.38mm"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="171975-0002"/>
+      <property name="MOUSER PART NUMBER" value="538-171975-0002"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Molex/171975-0002?qs=lc2O%252BfHJPVZp75AIAAjPAw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>c9eb6fa9-e9f4-45b5-a4c0-ae3f7ce72cca</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_14220372</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=108-98010&amp;DocType=SS&amp;DocLang=EN</field>
+        <field name="HEIGHT">11.7mm</field>
+        <field name="MANUFACTURER_NAME">TE Connectivity</field>
+        <field name="MANUFACTURER_PART_NUMBER">1422037-2</field>
+        <field name="MOUSER PART NUMBER">655-1422037-2</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.com/Search/Refine.aspx?Keyword=655-1422037-2</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="1_1422037-2" description="Relay or Contactor"/>
+      <property name="DATASHEET LINK" value="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=108-98010&amp;DocType=SS&amp;DocLang=EN"/>
+      <property name="HEIGHT" value="11.7mm"/>
+      <property name="MANUFACTURER_NAME" value="TE Connectivity"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="1422037-2"/>
+      <property name="MOUSER PART NUMBER" value="655-1422037-2"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.com/Search/Refine.aspx?Keyword=655-1422037-2"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>f3e85fe9-38e9-4331-acb4-4bb1f181437d</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_14220372</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=108-98010&amp;DocType=SS&amp;DocLang=EN</field>
+        <field name="HEIGHT">11.7mm</field>
+        <field name="MANUFACTURER_NAME">TE Connectivity</field>
+        <field name="MANUFACTURER_PART_NUMBER">1422037-2</field>
+        <field name="MOUSER PART NUMBER">655-1422037-2</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.com/Search/Refine.aspx?Keyword=655-1422037-2</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="1_1422037-2" description="Relay or Contactor"/>
+      <property name="DATASHEET LINK" value="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=108-98010&amp;DocType=SS&amp;DocLang=EN"/>
+      <property name="HEIGHT" value="11.7mm"/>
+      <property name="MANUFACTURER_NAME" value="TE Connectivity"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="1422037-2"/>
+      <property name="MOUSER PART NUMBER" value="655-1422037-2"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.com/Search/Refine.aspx?Keyword=655-1422037-2"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>52c95bb1-d1ad-4fa3-97a2-79e537e8786e</tstamps>
+    </comp>
+    <comp ref="NT1">
+      <value>~</value>
+      <footprint>NetTie</footprint>
+      <libsource lib="Sheet1-altium-import" part="0_NetTie10" description=""/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>a3a6a8d1-7b8a-4394-9ea1-930cbce59425</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT95P237X111-3N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">BCW66GLT1G</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF</field>
+        <field name="HEIGHT">1.11mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">BCW66GLT1G</field>
+        <field name="MOUSER PART NUMBER">863-BCW66GLT1G</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_mirrored_BCW66GLT1G" description="Transistor BJT NPN"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF"/>
+      <property name="HEIGHT" value="1.11mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BCW66GLT1G"/>
+      <property name="MOUSER PART NUMBER" value="863-BCW66GLT1G"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="BCW66GLT1G"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>7549f3d2-89c7-4fce-8b86-cc5606a01bd6</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT95P237X111-3N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">BCW66GLT1G</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF</field>
+        <field name="HEIGHT">1.11mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">BCW66GLT1G</field>
+        <field name="MOUSER PART NUMBER">863-BCW66GLT1G</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_mirrored_BCW66GLT1G" description="Transistor BJT NPN"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF"/>
+      <property name="HEIGHT" value="1.11mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BCW66GLT1G"/>
+      <property name="MOUSER PART NUMBER" value="863-BCW66GLT1G"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="BCW66GLT1G"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>90710a13-190f-4461-955d-fea6f14a2d3a</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT95P237X111-3N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">BCW66GLT1G</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF</field>
+        <field name="HEIGHT">1.11mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">BCW66GLT1G</field>
+        <field name="MOUSER PART NUMBER">863-BCW66GLT1G</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_mirrored_BCW66GLT1G" description="Transistor BJT NPN"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF"/>
+      <property name="HEIGHT" value="1.11mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BCW66GLT1G"/>
+      <property name="MOUSER PART NUMBER" value="863-BCW66GLT1G"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="BCW66GLT1G"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>a1482c5a-1305-40cd-be4c-18a581c12096</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT95P237X111-3N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">BCW66GLT1G</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor</field>
+        <field name="DATASHEET LINK">http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF</field>
+        <field name="HEIGHT">1.11mm</field>
+        <field name="MANUFACTURER_NAME">ON Semiconductor</field>
+        <field name="MANUFACTURER_PART_NUMBER">BCW66GLT1G</field>
+        <field name="MOUSER PART NUMBER">863-BCW66GLT1G</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_mirrored_BCW66GLT1G" description="Transistor BJT NPN"/>
+      <property name="DATASHEET LINK" value="http://www.onsemi.com/pub/Collateral/BCW66GLT1-D.PDF"/>
+      <property name="HEIGHT" value="1.11mm"/>
+      <property name="MANUFACTURER_NAME" value="ON Semiconductor"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="BCW66GLT1G"/>
+      <property name="MOUSER PART NUMBER" value="863-BCW66GLT1G"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/BCW66GLT1G?qs=R2UZ7gjkEjKs0bN2RlXbWw%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="BCW66GLT1G"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/bcw66glt1g/on-semiconductor"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>d1d4ce1f-6f36-4772-9bdb-bb3389430309</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>d2965cc8-3542-42cd-8d93-2a9eb291c332</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>b918176d-10c2-439e-ad9e-acd1ff6dfacd</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>b6c34663-fbdd-4c89-a4cd-480757c052f3</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="2_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>8e8eaaf0-f51f-4180-ac1b-bc71d7bc4884</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT230P700X180-4N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LM1117IMPX-5.0/NOPB</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/lm1117impx-5.0nopb/texas-instruments</field>
+        <field name="DATASHEET LINK">http://www.ti.com/lit/gpn/lm1117</field>
+        <field name="HEIGHT">1.8mm</field>
+        <field name="MANUFACTURER_NAME">Texas Instruments</field>
+        <field name="MANUFACTURER_PART_NUMBER">LM1117IMPX-5.0/NOPB</field>
+        <field name="MOUSER PART NUMBER">926-LM1117IMPX50NOPB</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM1117IMPX-50-NOPB?qs=X1J7HmVL2ZGGwLlD0uGqKQ%3D%3D</field>
+      </fields>
+      <libsource lib="Sheet1-altium-import" part="0_LM1117IMPX-5.0_NOPB" description="Undefined or Miscellaneous"/>
+      <property name="DATASHEET LINK" value="http://www.ti.com/lit/gpn/lm1117"/>
+      <property name="HEIGHT" value="1.8mm"/>
+      <property name="MANUFACTURER_NAME" value="Texas Instruments"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LM1117IMPX-5.0/NOPB"/>
+      <property name="MOUSER PART NUMBER" value="926-LM1117IMPX50NOPB"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM1117IMPX-50-NOPB?qs=X1J7HmVL2ZGGwLlD0uGqKQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LM1117IMPX-5.0/NOPB"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/lm1117impx-5.0nopb/texas-instruments"/>
+      <property name="Sheetname" value="Test"/>
+      <property name="Sheetfile" value="File: untitled.kicad_sch"/>
+      <sheetpath names="/Test/" tstamps="/eb8ec467-08c3-4eb1-a6e6-82e843d86259/"/>
+      <tstamps>a7cd5e1c-7e3a-4ada-a842-5c309b0a88eb</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="2_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>181dc4fd-3a37-44b7-ab88-cf835ef50359</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13cba12e-ee53-4eb9-aa25-a4b6e6581b92</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a0abcf8-b3d8-4185-bd3b-b8ae9584e464</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b208a61-4f01-436f-9172-b1babd9d4612</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88654aa9-9635-4b88-8477-2b592333af47</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C0603C104K3RACTU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU" description="Capacitor"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9744617-06b0-46a1-a00f-9289ed922451</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C0603C104K3RACTU</value>
+      <footprint>CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_06035A200KAT2A" description="Capacitor 20pf"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84d1bb12-ab4d-46ec-87f1-5218ef4053d6</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C0603C104K3RACTU</value>
+      <footprint>CAPC1608X95N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">C0603C104K3RACTU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation</field>
+        <field name="DATASHEET LINK">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="HEIGHT">0.95mm</field>
+        <field name="MANUFACTURER_NAME">Kemet</field>
+        <field name="MANUFACTURER_PART_NUMBER">C0603C104K3RACTU</field>
+        <field name="MOUSER PART NUMBER">80-C0603C104K3R</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_06035A200KAT2A" description="Capacitor 20pf"/>
+      <property name="DATASHEET LINK" value="https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf"/>
+      <property name="HEIGHT" value="0.95mm"/>
+      <property name="MANUFACTURER_NAME" value="Kemet"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="C0603C104K3RACTU"/>
+      <property name="MOUSER PART NUMBER" value="80-C0603C104K3R"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/KEMET/C0603C104K3RACTU/?qs=l5k%252BbMnNDklvfdneglCDAg%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="C0603C104K3RACTU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/c0603c104k3ractu/kemet-corporation"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8322a1b7-78c4-4687-b4bd-2c48b1790c0a</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>ATMEGA328P-AU</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_QFP80P900X900X120-32N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">ATMEGA328P-AU</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/atmega328p-au/microchip-technology</field>
+        <field name="DATASHEET LINK">https://componentsearchengine.com/Datasheets/2/ATMEGA328P-AU.pdf</field>
+        <field name="HEIGHT">1.2mm</field>
+        <field name="MANUFACTURER_NAME">Microchip</field>
+        <field name="MANUFACTURER_PART_NUMBER">ATMEGA328P-AU</field>
+        <field name="MOUSER PART NUMBER">556-ATMEGA328P-AU</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328P-AU?qs=K8BHR703ZXiCmmgp6%2FGNmQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_ATMEGA328P-AU" description="Integrated Circuit"/>
+      <property name="DATASHEET LINK" value="https://componentsearchengine.com/Datasheets/2/ATMEGA328P-AU.pdf"/>
+      <property name="HEIGHT" value="1.2mm"/>
+      <property name="MANUFACTURER_NAME" value="Microchip"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="ATMEGA328P-AU"/>
+      <property name="MOUSER PART NUMBER" value="556-ATMEGA328P-AU"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATMEGA328P-AU?qs=K8BHR703ZXiCmmgp6%2FGNmQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="ATMEGA328P-AU"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/atmega328p-au/microchip-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7aabaa3b-68b4-46b5-8809-e463a0f8cd96</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>FT232RL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOP65P778X200-28N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">FT232RL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ft232rl/ftdi-chip</field>
+        <field name="DATASHEET LINK">http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</field>
+        <field name="HEIGHT">2mm</field>
+        <field name="MANUFACTURER_NAME">FTDI Chip</field>
+        <field name="MANUFACTURER_PART_NUMBER">FT232RL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_FT232RL" description="Integrated Circuit"/>
+      <property name="DATASHEET LINK" value="http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"/>
+      <property name="HEIGHT" value="2mm"/>
+      <property name="MANUFACTURER_NAME" value="FTDI Chip"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="FT232RL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="FT232RL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ft232rl/ftdi-chip"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5e6df6a-cec7-449a-aff2-16881abbcd17</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>2013499-1</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_2013499-1</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">2013499-1</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/2013499-1/te-connectivity</field>
+        <field name="DATASHEET LINK">http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2013499%7FB2%7Fpdf%7FEnglish%7FENG_CD_2013499_B2.pdf%7F2013499-1</field>
+        <field name="MANUFACTURER_NAME">TE Connectivity</field>
+        <field name="MANUFACTURER_PART_NUMBER">2013499-1</field>
+        <field name="MOUSER PART NUMBER">571-2013499-1</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2013499-1/?qs=TL6PIybY3BOLK37GbUYdng%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_2013499-1" description="Connector"/>
+      <property name="DATASHEET LINK" value="http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2013499%7FB2%7Fpdf%7FEnglish%7FENG_CD_2013499_B2.pdf%7F2013499-1"/>
+      <property name="MANUFACTURER_NAME" value="TE Connectivity"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="2013499-1"/>
+      <property name="MOUSER PART NUMBER" value="571-2013499-1"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2013499-1/?qs=TL6PIybY3BOLK37GbUYdng%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="2013499-1"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/2013499-1/te-connectivity"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8047e7f-60c2-4f8c-8e69-4777f55db58e</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>1719750003</value>
+      <footprint>171975YY03</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf</field>
+        <field name="HEIGHT">7mm</field>
+        <field name="MANUFACTURER_NAME">Molex</field>
+        <field name="MANUFACTURER_PART_NUMBER">1719750003</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="2_1719750003" description="Connector"/>
+      <property name="DATASHEET LINK" value="https://www.molex.com/pdm_docs/sd/1719750002_sd.pdf"/>
+      <property name="HEIGHT" value="7mm"/>
+      <property name="MANUFACTURER_NAME" value="Molex"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="1719750003"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fbda985-5530-4a24-a2d6-6cebe02e3465</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>LTST-C191TBKT-5A</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LTST-C191TBKT-5A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology</field>
+        <field name="DATASHEET LINK">http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf</field>
+        <field name="HEIGHT">0.65mm</field>
+        <field name="MANUFACTURER_NAME">Lite-On</field>
+        <field name="MANUFACTURER_PART_NUMBER">LTST-C191TBKT-5A</field>
+        <field name="MOUSER PART NUMBER">859-LTST-C191TBKT-5A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A" description="LED"/>
+      <property name="DATASHEET LINK" value="http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf"/>
+      <property name="HEIGHT" value="0.65mm"/>
+      <property name="MANUFACTURER_NAME" value="Lite-On"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="MOUSER PART NUMBER" value="859-LTST-C191TBKT-5A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0806c6ba-3b51-43a1-b6c2-e637d3eff3d4</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>LTST-C191TBKT-5A</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LTST-C191TBKT-5A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology</field>
+        <field name="DATASHEET LINK">http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf</field>
+        <field name="HEIGHT">0.65mm</field>
+        <field name="MANUFACTURER_NAME">Lite-On</field>
+        <field name="MANUFACTURER_PART_NUMBER">LTST-C191TBKT-5A</field>
+        <field name="MOUSER PART NUMBER">859-LTST-C191TBKT-5A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A" description="LED"/>
+      <property name="DATASHEET LINK" value="http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf"/>
+      <property name="HEIGHT" value="0.65mm"/>
+      <property name="MANUFACTURER_NAME" value="Lite-On"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="MOUSER PART NUMBER" value="859-LTST-C191TBKT-5A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7b475db-8ec9-497b-bff8-8947077dd429</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>LTST-C191TBKT-5A</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LTST-C191TBKT-5A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology</field>
+        <field name="DATASHEET LINK">http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf</field>
+        <field name="HEIGHT">0.65mm</field>
+        <field name="MANUFACTURER_NAME">Lite-On</field>
+        <field name="MANUFACTURER_PART_NUMBER">LTST-C191TBKT-5A</field>
+        <field name="MOUSER PART NUMBER">859-LTST-C191TBKT-5A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A" description="LED"/>
+      <property name="DATASHEET LINK" value="http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf"/>
+      <property name="HEIGHT" value="0.65mm"/>
+      <property name="MANUFACTURER_NAME" value="Lite-On"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="MOUSER PART NUMBER" value="859-LTST-C191TBKT-5A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>024d54bb-df7a-4f39-830a-2eac224391fc</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>Header 3X2</value>
+      <footprint>HDR2X3</footprint>
+      <fields>
+        <field name="LATESTREVISIONDATE">17-Jul-2002</field>
+        <field name="LATESTREVISIONNOTE">Re-released for DXP Platform.</field>
+        <field name="PUBLISHER">Altium Limited</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_Header 3X2" description="Header, 3-Pin, Dual row"/>
+      <property name="LATESTREVISIONDATE" value="17-Jul-2002"/>
+      <property name="LATESTREVISIONNOTE" value="Re-released for DXP Platform."/>
+      <property name="PUBLISHER" value="Altium Limited"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e68ca96-91f6-42e2-bf41-7d188ba3bcd7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b5075e8-3f72-4b5a-9ee3-4ae37f68866e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e0372b6-a4cb-435b-8c92-b646d44c36e6</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55133e6f-e6e3-4f9f-9a9f-2a0d319c4324</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03c3401f-377a-40e7-80de-37a356975262</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f7c5694-c2d9-4c54-98ae-2f4d35733270</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98c4fe18-aaa5-4f95-8487-c6f34e5d20c8</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0b5a8ad-c319-42ca-b261-62410d6bd48d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5276ecef-3c81-46db-b8b7-d1f087ba70cc</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>RC0603DR-07270KL</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">RC0603DR-07270KL</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/rc0603dr-07270kl/yageo</field>
+        <field name="DATASHEET LINK">http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf</field>
+        <field name="HEIGHT">0.55mm</field>
+        <field name="MANUFACTURER_NAME">YAGEO (PHYCOMP)</field>
+        <field name="MANUFACTURER_PART_NUMBER">RC0603DR-07270KL</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_RC0603DR-07270KL" description="Resistor"/>
+      <property name="DATASHEET LINK" value="http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"/>
+      <property name="HEIGHT" value="0.55mm"/>
+      <property name="MANUFACTURER_NAME" value="YAGEO (PHYCOMP)"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="RC0603DR-07270KL"/>
+      <property name="MOUSER PART NUMBER" value=""/>
+      <property name="MOUSER PRICE/STOCK" value=""/>
+      <property name="ARROW PART NUMBER" value="RC0603DR-07270KL"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/rc0603dr-07270kl/yageo"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b0df512-1c74-4d53-b40a-d498d4acc432</tstamps>
+    </comp>
+    <comp ref="RX1">
+      <value>LTST-C191TBKT-5A</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LTST-C191TBKT-5A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology</field>
+        <field name="DATASHEET LINK">http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf</field>
+        <field name="HEIGHT">0.65mm</field>
+        <field name="MANUFACTURER_NAME">Lite-On</field>
+        <field name="MANUFACTURER_PART_NUMBER">LTST-C191TBKT-5A</field>
+        <field name="MOUSER PART NUMBER">859-LTST-C191TBKT-5A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A" description="LED"/>
+      <property name="DATASHEET LINK" value="http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf"/>
+      <property name="HEIGHT" value="0.65mm"/>
+      <property name="MANUFACTURER_NAME" value="Lite-On"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="MOUSER PART NUMBER" value="859-LTST-C191TBKT-5A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>480c4b4e-9d7a-453b-8828-eba6a1dc3fe3</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>5-1437565-0</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_FSM6JSMATR</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2-1437565-7%7FV%7Fpdf%7FEnglish%7FENG_CD_2-1437565-7_V.pdf%7F5-1437565-0</field>
+        <field name="HEIGHT">7.26mm</field>
+        <field name="MANUFACTURER_NAME">TE Connectivity</field>
+        <field name="MANUFACTURER_PART_NUMBER">5-1437565-0</field>
+        <field name="MOUSER PART NUMBER">506-5-1437565-0</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/5-1437565-0?qs=%2FwXgF%2FfIho9mO1nArmyR6A%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_5-1437565-0" description="Switch"/>
+      <property name="DATASHEET LINK" value="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2-1437565-7%7FV%7Fpdf%7FEnglish%7FENG_CD_2-1437565-7_V.pdf%7F5-1437565-0"/>
+      <property name="HEIGHT" value="7.26mm"/>
+      <property name="MANUFACTURER_NAME" value="TE Connectivity"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="5-1437565-0"/>
+      <property name="MOUSER PART NUMBER" value="506-5-1437565-0"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/5-1437565-0?qs=%2FwXgF%2FfIho9mO1nArmyR6A%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32a49ee5-9361-4f78-a294-696e4647fffd</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>5-1437565-0</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_FSM6JSMATR</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2-1437565-7%7FV%7Fpdf%7FEnglish%7FENG_CD_2-1437565-7_V.pdf%7F5-1437565-0</field>
+        <field name="HEIGHT">7.26mm</field>
+        <field name="MANUFACTURER_NAME">TE Connectivity</field>
+        <field name="MANUFACTURER_PART_NUMBER">5-1437565-0</field>
+        <field name="MOUSER PART NUMBER">506-5-1437565-0</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/5-1437565-0?qs=%2FwXgF%2FfIho9mO1nArmyR6A%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="0_5-1437565-0" description="Switch"/>
+      <property name="DATASHEET LINK" value="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&amp;DocId=Customer+Drawing%7F2-1437565-7%7FV%7Fpdf%7FEnglish%7FENG_CD_2-1437565-7_V.pdf%7F5-1437565-0"/>
+      <property name="HEIGHT" value="7.26mm"/>
+      <property name="MANUFACTURER_NAME" value="TE Connectivity"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="5-1437565-0"/>
+      <property name="MOUSER PART NUMBER" value="506-5-1437565-0"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/TE-Connectivity-PB/5-1437565-0?qs=%2FwXgF%2FfIho9mO1nArmyR6A%3D%3D"/>
+      <property name="ARROW PART NUMBER" value=""/>
+      <property name="ARROW PRICE/STOCK" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fe2bb59-76e1-487a-b91d-e36d2c8e3b20</tstamps>
+    </comp>
+    <comp ref="TX1">
+      <value>LTST-C191TBKT-5A</value>
+      <footprint>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</footprint>
+      <fields>
+        <field name="ARROW PART NUMBER">LTST-C191TBKT-5A</field>
+        <field name="ARROW PRICE/STOCK">https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology</field>
+        <field name="DATASHEET LINK">http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf</field>
+        <field name="HEIGHT">0.65mm</field>
+        <field name="MANUFACTURER_NAME">Lite-On</field>
+        <field name="MANUFACTURER_PART_NUMBER">LTST-C191TBKT-5A</field>
+        <field name="MOUSER PART NUMBER">859-LTST-C191TBKT-5A</field>
+        <field name="MOUSER PRICE/STOCK">https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A" description="LED"/>
+      <property name="DATASHEET LINK" value="http://www.mouser.com/ds/2/239/S_110_LTST-C191TBKT-5A-336399.pdf"/>
+      <property name="HEIGHT" value="0.65mm"/>
+      <property name="MANUFACTURER_NAME" value="Lite-On"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="MOUSER PART NUMBER" value="859-LTST-C191TBKT-5A"/>
+      <property name="MOUSER PRICE/STOCK" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C191TBKT-5A/?qs=xb8aMrBSZRLgwF8AXHEbeQ%3D%3D"/>
+      <property name="ARROW PART NUMBER" value="LTST-C191TBKT-5A"/>
+      <property name="ARROW PRICE/STOCK" value="https://www.arrow.com/en/products/ltst-c191tbkt-5a/lite-on-technology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8979f9f9-1f97-415d-b75d-f2971282bed0</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>ECS-160-18-5PX-CKM-TR</value>
+      <footprint>ECS49205PXTR</footprint>
+      <fields>
+        <field name="DATASHEET LINK">https://ecsxtal.com/store/pdf/csm-7x.pdf</field>
+        <field name="HEIGHT">4.3mm</field>
+        <field name="MANUFACTURER_NAME">ECS</field>
+        <field name="MANUFACTURER_PART_NUMBER">ECS-160-18-5PX-CKM-TR</field>
+      </fields>
+      <libsource lib="SafetyPCB-altium-import" part="1_ECS-160-18-5PX-CKM-TR" description="Crystal or Oscillator"/>
+      <property name="DATASHEET LINK" value="https://ecsxtal.com/store/pdf/csm-7x.pdf"/>
+      <property name="HEIGHT" value="4.3mm"/>
+      <property name="MOUSER2 PART NUMBER" value=""/>
+      <property name="MOUSER2 PRICE/STOCK" value=""/>
+      <property name="MANUFACTURER_NAME" value="ECS"/>
+      <property name="MANUFACTURER_PART_NUMBER" value="ECS-160-18-5PX-CKM-TR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: SafetyPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bb41f03-85d9-4fcb-a6e4-1e504c6c9bac</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SafetyPCB-altium-import" part="0_06035A200KAT2A">
+      <description>Capacitor 20pf</description>
+      <footprints>
+        <fp>CAPC1608X95N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_06035A200KAT2A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_2013499-1">
+      <description>Connector</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_2013499-1</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_2013499-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_5-1437565-0">
+      <description>Switch</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_FSM6JSMATR</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_5-1437565-0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM_1" type="passive"/>
+        <pin num="2" name="COM_2" type="passive"/>
+        <pin num="3" name="NO_1" type="passive"/>
+        <pin num="4" name="NO_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_ATMEGA328P-AU">
+      <description>Integrated Circuit</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_QFP80P900X900X120-32N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_ATMEGA328P-AU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PD3_[PCINT19]" type="bidirectional"/>
+        <pin num="2" name="PD4_[PCINT20]" type="bidirectional"/>
+        <pin num="3" name="GND_1" type="power_in"/>
+        <pin num="4" name="VCC_1" type="power_in"/>
+        <pin num="5" name="GND_2" type="power_in"/>
+        <pin num="6" name="VCC_2" type="power_in"/>
+        <pin num="7" name="PB6_[PCINT6]" type="bidirectional"/>
+        <pin num="8" name="PB7_[PCINT7]" type="bidirectional"/>
+        <pin num="9" name="PD5_[PCINT21]" type="bidirectional"/>
+        <pin num="10" name="PD6_[PCINT22]" type="bidirectional"/>
+        <pin num="11" name="PD7_[PCINT23]" type="bidirectional"/>
+        <pin num="12" name="PB0_[PCINT0]" type="bidirectional"/>
+        <pin num="13" name="PB1_[PCINT1]" type="bidirectional"/>
+        <pin num="14" name="PB2_[PCINT2]" type="bidirectional"/>
+        <pin num="15" name="PB3_[PCINT3]" type="bidirectional"/>
+        <pin num="16" name="PB4_[PCINT4]" type="bidirectional"/>
+        <pin num="17" name="PB5_[PCINT5]" type="bidirectional"/>
+        <pin num="18" name="AVCC" type="power_in"/>
+        <pin num="19" name="ADC6" type="bidirectional"/>
+        <pin num="20" name="AREF" type="bidirectional"/>
+        <pin num="21" name="GND_3" type="power_in"/>
+        <pin num="22" name="ADC7" type="bidirectional"/>
+        <pin num="23" name="PC0_[PCINT8]" type="bidirectional"/>
+        <pin num="24" name="PC1_[PCINT9]" type="bidirectional"/>
+        <pin num="25" name="PC2_[PCINT10]" type="bidirectional"/>
+        <pin num="26" name="PC3_[PCINT11]" type="bidirectional"/>
+        <pin num="27" name="PC4_[PCINT12]" type="bidirectional"/>
+        <pin num="28" name="PC5_[PCINT13]" type="bidirectional"/>
+        <pin num="29" name="PC6_[RESET/PCINT14]" type="bidirectional"/>
+        <pin num="30" name="PD0_[PCINT16]" type="bidirectional"/>
+        <pin num="31" name="PD1_[PCINT17]" type="bidirectional"/>
+        <pin num="32" name="PD2_[PCINT18]" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_FT232RL">
+      <description>Integrated Circuit</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOP65P778X200-28N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_FT232RL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="passive"/>
+        <pin num="2" name="DTR#" type="passive"/>
+        <pin num="3" name="RTS#" type="passive"/>
+        <pin num="4" name="VCCIO" type="passive"/>
+        <pin num="5" name="RXD" type="passive"/>
+        <pin num="6" name="RI#" type="passive"/>
+        <pin num="7" name="GND_1" type="passive"/>
+        <pin num="8" name="NC_1" type="passive"/>
+        <pin num="9" name="DSR#" type="passive"/>
+        <pin num="10" name="DCD#" type="passive"/>
+        <pin num="11" name="CTS#" type="passive"/>
+        <pin num="12" name="CBUS4" type="passive"/>
+        <pin num="13" name="CBUS2" type="passive"/>
+        <pin num="14" name="CBUS3" type="passive"/>
+        <pin num="15" name="USBDP" type="passive"/>
+        <pin num="16" name="USBDM" type="passive"/>
+        <pin num="17" name="3V3OUT" type="passive"/>
+        <pin num="18" name="GND_2" type="passive"/>
+        <pin num="19" name="RESET#" type="passive"/>
+        <pin num="20" name="VCC" type="passive"/>
+        <pin num="21" name="GND_3" type="passive"/>
+        <pin num="22" name="CBUS1" type="passive"/>
+        <pin num="23" name="CBUS0" type="passive"/>
+        <pin num="24" name="NC_2" type="passive"/>
+        <pin num="25" name="AGND" type="passive"/>
+        <pin num="26" name="TEST" type="passive"/>
+        <pin num="27" name="OSCI" type="passive"/>
+        <pin num="28" name="OSCO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_Header 3X2">
+      <description>Header, 3-Pin, Dual row</description>
+      <footprints>
+        <fp>HDR2X3</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_Header 3X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="0_RC0603DR-07270KL">
+      <description>Resistor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_RC0603DR-07270KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="1_C0603C104K3RACTU">
+      <description>Capacitor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_C0603C104K3RACTU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="1_ECS-160-18-5PX-CKM-TR">
+      <description>Crystal or Oscillator</description>
+      <footprints>
+        <fp>ECS49205PXTR</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_ECS-160-18-5PX-CKM-TR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="1_LTST-C191TBKT-5A">
+      <description>LED</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_LEDC1608X65N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_LTST-C191TBKT-5A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="1_RC0603DR-07270KL">
+      <description>Resistor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_RC0603DR-07270KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="2_1719750003">
+      <description>Connector</description>
+      <footprints>
+        <fp>171975YY03</fp>
+      </footprints>
+      <fields>
+        <field name="Value">2_1719750003</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SafetyPCB-altium-import" part="2_C0603C104K3RACTU">
+      <description>Capacitor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">2_C0603C104K3RACTU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="0_0678H9100-02">
+      <description>Fuse</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_FUSC9830X318N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_0678H9100-02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="0_LM1117IMPX-5.0_NOPB">
+      <description>Undefined or Miscellaneous</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT230P700X180-4N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_LM1117IMPX-5.0_NOPB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ/GND" type="passive"/>
+        <pin num="2" name="OUTPUT" type="passive"/>
+        <pin num="3" name="INPUT" type="passive"/>
+        <pin num="4" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="0_NetTie10">
+      <footprints>
+        <fp>NetTie</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_NetTie10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="0_mirrored_BCW66GLT1G">
+      <description>Transistor BJT NPN</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_SOT95P237X111-3N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">0_mirrored_BCW66GLT1G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="passive"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="1_0430450200">
+      <description>Connector</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_43045-0200</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_0430450200</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="1_1422037-2">
+      <description>Relay or Contactor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_14220372</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_1422037-2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="passive"/>
+        <pin num="2" name="COIL_1" type="passive"/>
+        <pin num="6" name="COM_1" type="passive"/>
+        <pin num="7" name="COM_2" type="passive"/>
+        <pin num="11" name="COIL_2" type="passive"/>
+        <pin num="12" name="NO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="1_C0603C104K3RACTU">
+      <description>Capacitor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_CAPC1608X95N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">1_C0603C104K3RACTU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="2_171975-0002">
+      <description>Connector</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</fp>
+      </footprints>
+      <fields>
+        <field name="Value">2_171975-0002</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="2_RC0603DR-07270KL">
+      <description>Resistor</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_RESC1608X55N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">2_RC0603DR-07270KL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="3_171975-0002">
+      <description>Connector</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_1719750002</fp>
+      </footprints>
+      <fields>
+        <field name="Value">3_171975-0002</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sheet1-altium-import" part="3_S1A">
+      <description>Diode</description>
+      <footprints>
+        <fp>C:_Users_luke__Documents_AltiumLL_SamacSys.PcbLib_DIOM5227X270N</fp>
+      </footprints>
+      <fields>
+        <field name="Value">3_S1A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SafetyPCB-altium-import">
+      <uri>C:\Users\felip\OneDrive\Documents\KiCad\SafetyPCB/SafetyPCB-altium-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3">
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC2" pin="17" pinfunction="3V3OUT" pintype="passive"/>
+    </net>
+    <net code="2" name="+5">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="18" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="IC1" pin="4" pinfunction="VCC_1" pintype="power_in"/>
+      <node ref="IC1" pin="6" pinfunction="VCC_2" pintype="power_in"/>
+      <node ref="IC2" pin="20" pinfunction="VCC" pintype="passive"/>
+      <node ref="IC2" pin="4" pinfunction="VCCIO" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RX1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="TX1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="VOUT" pintype="passive"/>
+    </net>
+    <net code="3" name="+12">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K1" pin="11" pinfunction="COIL_2" pintype="passive"/>
+      <node ref="K2" pin="11" pinfunction="COIL_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="INPUT" pintype="passive"/>
+    </net>
+    <net code="4" name="/A0">
+      <node ref="IC1" pin="23" pinfunction="PC0_[PCINT8]" pintype="bidirectional"/>
+      <node ref="J7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/A1">
+      <node ref="IC1" pin="24" pinfunction="PC1_[PCINT9]" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/A2">
+      <node ref="IC1" pin="25" pinfunction="PC2_[PCINT10]" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/A3">
+      <node ref="IC1" pin="26" pinfunction="PC3_[PCINT11]" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/A4">
+      <node ref="IC1" pin="27" pinfunction="PC4_[PCINT12]" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/A5">
+      <node ref="IC1" pin="28" pinfunction="PC5_[PCINT13]" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/A6">
+      <node ref="IC1" pin="22" pinfunction="ADC7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/A7">
+      <node ref="IC1" pin="19" pinfunction="ADC6" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/D0{slash}RX">
+      <node ref="IC1" pin="30" pinfunction="PD0_[PCINT16]" pintype="bidirectional"/>
+      <node ref="R8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="/D1{slash}TX">
+      <node ref="IC1" pin="31" pinfunction="PD1_[PCINT17]" pintype="bidirectional"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/D6">
+      <node ref="IC1" pin="10" pinfunction="PD6_[PCINT22]" pintype="bidirectional"/>
+      <node ref="S2" pin="3" pinfunction="NO_1" pintype="passive"/>
+    </net>
+    <net code="15" name="/D7">
+      <node ref="IC1" pin="11" pinfunction="PD7_[PCINT23]" pintype="bidirectional"/>
+      <node ref="S1" pin="3" pinfunction="NO_1" pintype="passive"/>
+    </net>
+    <net code="16" name="/D8">
+      <node ref="IC1" pin="12" pinfunction="PB0_[PCINT0]" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/D9">
+      <node ref="IC1" pin="13" pinfunction="PB1_[PCINT1]" pintype="bidirectional"/>
+      <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="/D10">
+      <node ref="IC1" pin="14" pinfunction="PB2_[PCINT2]" pintype="bidirectional"/>
+      <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="/D11{slash}MOSI">
+      <node ref="IC1" pin="15" pinfunction="PB3_[PCINT3]" pintype="bidirectional"/>
+      <node ref="P2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="20" name="/D12{slash}MISO">
+      <node ref="IC1" pin="16" pinfunction="PB4_[PCINT4]" pintype="bidirectional"/>
+      <node ref="P2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="/D13{slash}SCK">
+      <node ref="IC1" pin="17" pinfunction="PB5_[PCINT5]" pintype="bidirectional"/>
+      <node ref="P2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="22" name="/RESET">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="29" pinfunction="PC6_[RESET/PCINT14]" pintype="bidirectional"/>
+      <node ref="P2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="23" name="/RX">
+      <node ref="IC2" pin="1" pinfunction="TXD" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="/TX">
+      <node ref="IC2" pin="5" pinfunction="RXD" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/USBDM">
+      <node ref="IC2" pin="16" pinfunction="USBDM" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="/USBDP">
+      <node ref="IC2" pin="15" pinfunction="USBDP" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="27" name="D2">
+      <node ref="IC1" pin="32" pinfunction="PD2_[PCINT18]" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="D3">
+      <node ref="IC1" pin="1" pinfunction="PD3_[PCINT19]" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="D4">
+      <node ref="IC1" pin="2" pinfunction="PD4_[PCINT20]" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="D5">
+      <node ref="IC1" pin="9" pinfunction="PD5_[PCINT21]" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC1" pin="21" pinfunction="GND_3" pintype="power_in"/>
+      <node ref="IC1" pin="3" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="IC1" pin="5" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="IC2" pin="18" pinfunction="GND_2" pintype="passive"/>
+      <node ref="IC2" pin="21" pinfunction="GND_3" pintype="passive"/>
+      <node ref="IC2" pin="25" pinfunction="AGND" pintype="passive"/>
+      <node ref="IC2" pin="26" pinfunction="TEST" pintype="passive"/>
+      <node ref="IC2" pin="7" pinfunction="GND_1" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="LED3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="NT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="ADJ/GND" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="DTR#" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="20" pinfunction="AREF" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="7" pinfunction="PB6_[PCINT6]" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="PB7_[PCINT7]" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="2" pinfunction="COIL_1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K2" pin="2" pinfunction="COIL_1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(IC2-Pad22)">
+      <node ref="IC2" pin="22" pinfunction="CBUS1" pintype="passive"/>
+      <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(IC2-Pad23)">
+      <node ref="IC2" pin="23" pinfunction="CBUS0" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K1" pin="6" pinfunction="COM_1" pintype="passive"/>
+      <node ref="K1" pin="7" pinfunction="COM_2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K1" pin="12" pinfunction="NO" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="K2" pin="6" pinfunction="COM_1" pintype="passive"/>
+      <node ref="K2" pin="7" pinfunction="COM_2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="K2" pin="12" pinfunction="NO" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(LED3-Pad2)">
+      <node ref="LED3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(LED4-Pad2)">
+      <node ref="LED4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(LED5-Pad2)">
+      <node ref="LED5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="B" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TX1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RX1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="COM_1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="COM_2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="COM_1" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="COM_2" pintype="passive"/>
+    </net>
+    <net code="58" name="PWR_GND">
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="NT1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="59" name="unconnected-(IC2-Pad3)">
+      <node ref="IC2" pin="3" pinfunction="RTS#" pintype="passive+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(IC2-Pad6)">
+      <node ref="IC2" pin="6" pinfunction="RI#" pintype="passive+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(IC2-Pad8)">
+      <node ref="IC2" pin="8" pinfunction="NC_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(IC2-Pad9)">
+      <node ref="IC2" pin="9" pinfunction="DSR#" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(IC2-Pad10)">
+      <node ref="IC2" pin="10" pinfunction="DCD#" pintype="passive+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(IC2-Pad11)">
+      <node ref="IC2" pin="11" pinfunction="CTS#" pintype="passive+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(IC2-Pad12)">
+      <node ref="IC2" pin="12" pinfunction="CBUS4" pintype="passive+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(IC2-Pad13)">
+      <node ref="IC2" pin="13" pinfunction="CBUS2" pintype="passive+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(IC2-Pad14)">
+      <node ref="IC2" pin="14" pinfunction="CBUS3" pintype="passive+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(IC2-Pad19)">
+      <node ref="IC2" pin="19" pinfunction="RESET#" pintype="passive+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(IC2-Pad24)">
+      <node ref="IC2" pin="24" pinfunction="NC_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(IC2-Pad27)">
+      <node ref="IC2" pin="27" pinfunction="OSCI" pintype="passive+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(IC2-Pad28)">
+      <node ref="IC2" pin="28" pinfunction="OSCO" pintype="passive+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J6-Pad4)">
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(K1-Pad1)">
+      <node ref="K1" pin="1" pinfunction="NC" pintype="passive"/>
+    </net>
+    <net code="75" name="unconnected-(K2-Pad1)">
+      <node ref="K2" pin="1" pinfunction="NC" pintype="passive"/>
+    </net>
+    <net code="76" name="unconnected-(S1-Pad4)">
+      <node ref="S1" pin="4" pinfunction="NO_2" pintype="passive"/>
+    </net>
+    <net code="77" name="unconnected-(S2-Pad4)">
+      <node ref="S2" pin="4" pinfunction="NO_2" pintype="passive"/>
+    </net>
+    <net code="78" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="OUTPUT" pintype="passive"/>
+    </net>
+  </nets>
+</export>

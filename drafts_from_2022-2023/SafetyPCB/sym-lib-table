@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SafetyPCB-altium-import")(type "KiCad")(uri "${KIPRJMOD}/SafetyPCB-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "IF")(type "KiCad")(uri "${KIPRJMOD}/IF.kicad_sym")(options "")(descr ""))
+)
